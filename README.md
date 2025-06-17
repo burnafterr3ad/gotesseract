@@ -1,6 +1,6 @@
 # gotesseract
 
-* Searches through folders of images for <string>.
+* Searches through folders of images for a string
 * Automatically optimizes threads
 * Exponentially faster than `pytesseract`
 * `-fast` option can resize images 
